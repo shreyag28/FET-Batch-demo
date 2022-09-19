@@ -1,0 +1,9 @@
+{
+	"name": "Data-Demo-shreya",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c7e3027e-7db5-437f-b0f6-207f5845e9f7",
+		"tenantId": "37709cfb-f3b2-4648-aea1-9c828a886147"
+	}
+}
